@@ -9,10 +9,6 @@
 
 	<packaging>pom</packaging>
 	
-	<modules>
-		<module>jpa-entities</module>
-		<module>from-eclipse</module>
-	</modules>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
