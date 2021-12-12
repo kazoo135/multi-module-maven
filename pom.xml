@@ -10,6 +10,7 @@
 	<packaging>pom</packaging>
 	
 	<modules>
+		<module>web-app</module>
 		<module>jpa-entities</module>
 		<module>from-eclipse</module>
 		<module>web-api</module>
